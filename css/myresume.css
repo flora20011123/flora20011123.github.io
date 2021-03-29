@@ -19,9 +19,8 @@ div.subheading.mb-5{
    text-transform: none;
 }
 .bg-primary{
-background-color: #09ad97; !important;
-background-color: #09ad97;
-background-image: url("https://www.transparenttextures.com/patterns/wild-flowers.png");
+background-color: #077a82;!important;
+background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 span.text-primary {
