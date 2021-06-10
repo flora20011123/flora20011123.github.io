@@ -1,6 +1,6 @@
 body{
   font-family:'Noto Sans TC',sans-serif;
- background-color: #19b7c2;
+ background-color: #0d4f63;
 background-image: url("https://www.transparenttextures.com/patterns/scribble-light.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
@@ -24,7 +24,7 @@ background-image: url("https://www.transparenttextures.com/patterns/brushed-alum
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 span.text-primary {
-    color: #fafffd!important;
+    color: #045447!important;
 }
 
 p.lead{
