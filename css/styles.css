@@ -6075,7 +6075,9 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #20c997 !important;
+  background-color:background-color: #6420e3;
+background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
