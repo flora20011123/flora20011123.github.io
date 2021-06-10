@@ -19,14 +19,14 @@ div.subheading.mb-5{
    text-transform: none;
 }
 .bg-primary{
-	background-color: #077a82;!important;
-	background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+background-color: #2d664c;
+background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 span.text-primary {
-    color: #006161!important;
+    color: #fafffd!important;
 }
 
 p.lead{
-	font-size:1rem;
+	font-size:3rem;
 }
