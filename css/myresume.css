@@ -1,7 +1,7 @@
 body{
   font-family:'Noto Sans TC',sans-serif;
- background-color: #5685bf;
-background-image: url("https://www.transparenttextures.com/patterns/scribble-light.png");
+background-color: #eac2b8;
+background-image: url("https://www.transparenttextures.com/patterns/ice-age.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 
@@ -19,8 +19,8 @@ div.subheading.mb-5{
    text-transform: none;
 }
 .bg-primary{
-background-color: #0b5cbf;
-background-image: url("https://www.transparenttextures.com/patterns/scribble-light.png");
+background-color: #d99e91;
+background-image: url("https://www.transparenttextures.com/patterns/ice-age.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 span.text-primary {
