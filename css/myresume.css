@@ -6,7 +6,8 @@ background-image: url("https://www.transparenttextures.com/patterns/ice-age.png"
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
-  font-family:'Noto Sans TC',sans-serif;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
 }
 
 .subheading{
@@ -24,7 +25,7 @@ background-image: url("https://www.transparenttextures.com/patterns/ice-age.png"
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 span.text-primary {
-    color: #858196!important;
+    color: #b98068!important;
 }
 
 p.lead{
