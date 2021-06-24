@@ -3,6 +3,24 @@ body{
 background-color: #eac2b8;
 background-image: url("https://www.transparenttextures.com/patterns/ice-age.png");
 /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+<p class="lead mb-5"> {
+    color: #0f0a30;
+    background-color: #FFFAF0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #8FBC8F;
+}
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #focfcf;
+}
+
+<p class="lead mb-5"> {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
@@ -31,24 +49,6 @@ span.text-primary {
 
 p.lead{
 	font-size:1.5rem;
-}
-<p class="lead mb-5"> {
-    color: #0f0a30;
-    background-color: #FFFAF0;
-    border-width: 2px;
-    border-style: solid;
-    border-color: #8FBC8F;
-}
-h3 {
-  text-align: center;
-  text-transform: uppercase;
-  color: #focfcf;
-}
-
-<p class="lead mb-5"> {
-  text-indent: 50px;
-  text-align: justify;
-  letter-spacing: 3px;
 }
 
 #customers {
