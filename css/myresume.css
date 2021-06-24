@@ -59,13 +59,13 @@ div {
   padding: 8px;
 }
 
-h1 {
+h3 {
   text-align: center;
   text-transform: uppercase;
   color: #focfcf;
 }
 
-p {
+<p class="lead mb-5"> {
   text-indent: 50px;
   text-align: justify;
   letter-spacing: 3px;
