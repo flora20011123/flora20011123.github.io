@@ -54,11 +54,14 @@ p.lead{
   background-color: #04AA6D;
   color: white;
 }
-div1 {
-  border: 1px solid gray;
-  padding: 8px;
-}
 
+<p class="lead mb-5"> {
+    color: #0f0a30;
+    background-color: #FFFAF0;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #8FBC8F;
+}
 h3 {
   text-align: center;
   text-transform: uppercase;
