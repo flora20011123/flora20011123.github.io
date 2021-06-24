@@ -54,9 +54,19 @@ p.lead{
   background-color: #04AA6D;
   color: white;
 }
-<h2 class="mb-0"> {
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #focfcf;
+}
+
+p {
   text-indent: 50px;
   text-align: justify;
   letter-spacing: 3px;
 }
-</h2>
